@@ -1,1 +1,2 @@
-[<img](https://i.imgur.com/79hRwD1_d.webp?maxwidth=760&fidelity=grand)
+<p align="center">
+  <img height="800" width=1050" src="https://i.imgur.com/QIeTw0l.png"/>
