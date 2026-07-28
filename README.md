@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="450" src="https://i.imgur.com/mhkMZuE.png/"/>
+  <img width="550" src="https://i.imgur.com/mhkMZuE.png/"/>
 
 <p align="center">
     <a href="https://astrozgalaxy.atabook.org/">
